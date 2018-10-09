@@ -1,0 +1,41 @@
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+li {
+  width: 359px;
+  display: inline-block;
+  margin: 10px 10px;
+  border: 4px solid black;
+  color: black;
+  text-align: center; }
+
+.container3 {
+  width: 1200px;
+  background: #37cdd8;
+  margin-top: 50px;
+  padding: 15px;
+  margin: auto; }
+
+.bb {
+  width: 22.8%; }
+
+.f {
+  margin-right: 52px; }
+
+.g {
+  float: left;
+  height: 55px;
+  width: 45%; }
+
+.h {
+  float: left; }
+
+.i {
+  float: right; }
+
+.k {
+  width: 70%; }
+
+/*# sourceMappingURL=style.css.map */
